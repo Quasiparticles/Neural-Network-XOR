@@ -12,7 +12,7 @@ None!
 Just run the following in terminal to see it run. 
 
 ``
-python demo.py
+python neuralnetwork_xor.py
 ``
 
 ##Credits
